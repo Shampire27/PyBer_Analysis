@@ -7,7 +7,10 @@ Challenge 5 - Performing analysis on PyBer data with Jupyter Notebook under Pyth
 
 ### Background
 
-Amalyzing for PyBer is a overview of the ride-sharing data.  By converting the data to DataFrame, 
+This analyzing for PyBer is a overview of the ride-sharing data.  the CEO from Pyber would like to see a sumarry of the detail combined analysis on the city data and ride datas.  Multiple tables and charts was created for summarizing and visualizing:
+- the total number of rides for each city types, the average ares and the total number of drivers for each city types; 
+- the range of number of rides, fares, and number of drivers by city types;
+- the precentage of the total fares, rides and drivers by city types with pie chart.
 
 
 ### Analysis Overview
