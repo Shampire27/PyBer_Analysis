@@ -68,4 +68,3 @@ In this project, following analyzations were provided:
 2. During the first quater of the year of 2019, March is the most popular month that people would like to choose sharing-rides for transporting.  For the years after, PyBer should prepare for this hot season to ensure the customer experience by controling the number of drivers that PyBer could provide.
 
 3. In the urban cities, there are too many drivers if to consider the rate of available rides for each driver.  Additional analysis should be made for the decision on keeping a stable rate of avarage number of rides that each drivers able to get for each periods.  The total number of driver could be deductive for a more efficient management if there is a further number shows many drivers are not able to get rides in a certain periods. In suburban cities, more drivers may be necessary to be hired.
-
